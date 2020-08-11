@@ -1,0 +1,80 @@
+<resources>
+
+    <string name="lingua">portugues</string>
+
+    <string name="app_name">TriatoDex</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Opções</string>
+    <string name="action_quit">Fechar</string>
+
+    <string name="pesquisar">Pesquisar</string>
+    <string name="possiveis_especies">Possíveis Espécies</string>
+    <string name="resetar_busca">Resetar Busca</string>
+    <string name="respostas">Respostas Recentes</string>
+    <string name="sobre">Sobre o App</string>
+    <string name="referencias">Referências</string>
+    <string name="estruturas_morfologicas">Estruturas Morfológicas</string>
+    <string name="Responder">Responder</string>
+    <string name="Proximo">&gt;</string>
+    <string name="Anterior">&lt;</string>
+    <string name="contato">Contato</string>
+    <string name="Apagar">Apagar</string>
+    <string name="mapa">Mapa</string>
+    <string name="exit">Sair do app?</string>
+
+
+    <string name="about">
+        \n\n\n
+        Este aplicativo foi desenvolvido por\n\n
+        Maxwell Almeida\n
+        \teumaxwell@gmail.com\n
+        \tDesenvolvedor, Universidade Católica de Brasília
+        \n
+        \n
+        Douglas Rocha\n
+        \tdougalmeidarocha@gmail.com\n
+        \tBiólogo, Universidade de Brasília
+        \n
+        \n
+        Rodrigo Gurgel-Gonçalves\n
+        \tgurgelrg@hotmail.com\n
+        \tBiólogo, Universidade de Brasília\n
+        \n
+        Jainaine Abrantes\n
+        \tjainaine@gmail.com\n
+        \tDesigner\n
+        \n\n
+        Para dar sugestões entre em contato\n
+        \n
+    </string>
+
+    <string name="referenciaTexto">
+        \n
+        \t\tReferências\n
+        \n
+        Lent H, Wygodzinsky, P. Revision of the Triatominae (Hemiptera, Reduviidae), and their
+        significance as vectors of Chagas disease. Bull Am Mus Nat Hist.1979; 163- 520.\n
+        \n
+        Galvão C, Dale AS. Chaves de identificação para adultos. In: Galvão, C.
+        Vetores da doença de chagas no Brasil. Série Zoologia: guias e manuais de identificação.
+        Sociedade Brasileira de Zoologia. 2014; 171-208.
+        Disponível em\n
+        http://books.scielo.org/id/mw58j\n
+        \n
+        Galvão C, Gurgel-Gonçalves, R. Vetores conhecidos no Brasil. In: Galvão, C. Vetores da
+        doença de chagas no Brasil. Série Zoologia: guias e manuais de identificação.
+        Sociedade Brasileira de Zoologia. 2014; 88-170.
+        Disponível em \n
+        http://books.scielo.org/id/mw58j\n
+        \n
+        \n
+        \n
+        Créditos das imagens/fotos\n
+        \n
+        Rodrigo Gurgel Gonçalves, James Patterson, José Manuel Ayala, Cleber Galvão, João Aristeu da Rosa e Fernando Abad-Franch.\n
+    </string>
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_pesquisar_layout"
+            android:icon="@mipmap/menu_pesquisa"
+            android:title="@string/pesquisar" />
+        <item
+            android:id="@+id/nav_estruturas_morfologicas"
+            android:icon="@mipmap/menu_reset"
+            android:title="@string/estruturas_morfologicas" />
+        <item
+            android:id="@+id/nav_possiveis_especies_layout"
+            android:icon="@mipmap/menu_especies"
+            android:title="@string/possiveis_especies" />
+        <item
+            android:id="@+id/nav_respostas_layout"
+            android:icon="@mipmap/menu_respostas"
+            android:title="@string/respostas" />
+        <item
+            android:id="@+id/nav_resetar_busca"
+            android:icon="@mipmap/menu_reset"
+            android:title="@string/resetar_busca" />
+    </group>
+
+    <item android:title="@string/sobre">
+        <menu>
+            <item
+                android:id="@+id/nav_sobre_layout"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/contato" />
+            <item
+                android:id="@+id/nav_referencia_layout"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/referencias" />
+
+        </menu>
+    </item>
+
+</menu>

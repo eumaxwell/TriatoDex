@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    android:baselineAligned="false">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="0.85"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Medium Text"
+        android:id="@+id/textView_itensSearch"
+        android:layout_gravity="center_vertical"
+        android:textColor="#000000"
+        android:gravity="left|center"
+        android:background="@color/color3"
+        android:layout_marginLeft="10dp"
+        />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton_itensSearch"
+        android:clickable="false"
+        android:layout_gravity="center_vertical"
+        android:background="@mipmap/lupa_1"
+        android:layout_marginRight="10dp"
+        />
+
+
+    <!--CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:id="@+id/checkBox_itensSearch"
+        android:buttonTint="#ff000000"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="10dp"
+        android:layout_weight="0.10"/ -->
+
+    <!--android:background="#ffffffff"
+        android:button="@android:drawable/btn_minus"/ -->
+
+</LinearLayout>

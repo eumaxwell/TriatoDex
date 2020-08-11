@@ -1,0 +1,7 @@
+Estruturas morfológicas
+Dorsal morphology[figura500]
+Head[figura502]
+Thorax[figura503]
+Legs[figura504]
+Abdomen[figura505]
+

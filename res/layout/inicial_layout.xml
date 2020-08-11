@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+<!--
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="65dp"
+        android:gravity="center_horizontal"
+        android:weightSum="1"
+        android:layout_marginTop="150dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/logo_original"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_weight="0.11">
+    </TableRow>
+-->
+
+
+    <ImageView
+        android:layout_width="248dp"
+        android:layout_height="248dp"
+        android:id="@+id/imageView2"
+        android:src="@mipmap/logo_original"
+        android:layout_marginTop="90dp"
+        android:layout_marginLeft="30dp"
+        android:gravity="center_vertical"/>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:weightSum="1"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center_horizontal">
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="225dp"
+            android:layout_height="69dp"
+            android:text="@string/pesquisar"
+            android:textColor="#FFFFFF"
+            android:id="@+id/buttonInitialSearch"
+            android:layout_gravity="bottom"
+            android:background="@color/color2"/>
+
+    </TableRow>
+
+
+
+</LinearLayout>
